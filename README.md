@@ -22,7 +22,4 @@ We recommend the codes for those interested in understanding the multithreading.
 - 14- Java Multithreading: Interrupting Threads
 
 
-## Contributors
-[Z. Berkay Celik](https://twitter.com/ZBerkayCelik)
 
-[@IOAyman](https://twitter.com/IOAyman)
